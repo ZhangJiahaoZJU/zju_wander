@@ -40,7 +40,7 @@ It will cost 5 minutes, then the result is outputed, such as
 4. For more scenarios
 ----------------
 You can change the parameters for more scenarios simulation, and the detailed
-description of "parameters.yaml" is given as follows.
+description of "parameters.yaml" is given in :doc:`api` section.
 
  
 
