@@ -22,7 +22,7 @@ is the '.yaml' file.  Open Your command.exe in your computer, then execute the:
    (.venv) $ cd "the location of the repo" + "/softawre" 
 
 
-3. Execute the command:
+3. Execute the command
 ----------------
 Then execute the below commnad line:
 
@@ -37,9 +37,10 @@ It will cost 5 minutes, then the result is outputed, such as
    [0.3456, 0.123, 0,256]
 
 
-4. For more scenarios:
+4. For more scenarios
 ----------------
-
+You can change the parameters for more scenarios simulation, and the detailed
+description of "parameters.yaml" is given as follows.
 
  
 
