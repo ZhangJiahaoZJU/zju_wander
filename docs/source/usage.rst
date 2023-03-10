@@ -6,17 +6,16 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+This repo is free-install. To use zju_wander, first git clone it into your local file:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ git clone https://github.com/ZhangJiahaoZJU/zju_wander.git
 
-Creating recipes
+Preparation
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+1. Go to the '/software' file, and find the 'zju_wander.exe' software:
 
 .. autofunction:: lumache.get_random_ingredients
 
