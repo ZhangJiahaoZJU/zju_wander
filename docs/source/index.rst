@@ -17,12 +17,4 @@ Contents
 .. toctree::
 
    usage
-   
-.. toctree::
-
    parameters
-   
-   
-
-   
-   
