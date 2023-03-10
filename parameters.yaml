@@ -1,0 +1,110 @@
+lanes_ids:
+- 0
+- 1
+- 2
+lws:
+- 3.5
+- 3.5
+- 3.7
+ratios_HDV:
+- 0.7
+- 0.2
+- 0.5
+selected_marginal_ts: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - &id001 !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 1
+  - &id002 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - 0
+    - 1
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    AAAAAACAVkA=
+selected_t: 95
+tspan: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 200
+  - *id002
+  - false
+  - !!binary |
+    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
+    AABZQA==
+two_dim_paras:
+  alpha_roadbounds: 0.1
+  amplyfier_bound: 1.0
+  amplyfier_intra_lanes: 20
+  amplyfier_lane_mark: 10
+  beta_lane_marks: 3.6
+  beta_lane_middle_line: 0.92
+  gamma_middle_line: 2.0
+  sigma_lat: 0.1
+  sigma_lat_drift: 1.0
+  sigma_long: 0.1
+  sigma_long_drift: 1.0
+  theta_ou: 0.1
+two_dim_paras_AV:
+  alpha_roadbounds: 0.1
+  amplyfier_bound: 1.0
+  amplyfier_intra_lanes: 30
+  amplyfier_lane_mark: 10
+  beta_lane_marks: 3.6
+  beta_lane_middle_line: 0.92
+  gamma_middle_line: 2.0
+  sigma_lat: 0.01
+  sigma_lat_drift: 1.0
+  sigma_long: 0.1
+  sigma_long_drift: 1.0
+  theta_ou: 0.1
